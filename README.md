@@ -37,5 +37,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Usage
 This application will be publically deployed
 
+## Template
+Template Name: Personal
+Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+
 ## Questions
 email: cbaltazar464@gmail.com

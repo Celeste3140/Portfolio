@@ -5,7 +5,7 @@ Tooplate 2115 Marvel
 https://www.tooplate.com/view/2115-marvel
 
 */
-
+/* rgb(245,245,245) - back ground */
 
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
 body {
@@ -90,6 +90,7 @@ b, strong {
   line-height: normal;
   overflow: hidden;
   transition: all 0.4s ease;
+  border-style: solid;
 }
 .custom-btn:hover {
   color: #ffc200;
@@ -176,15 +177,17 @@ b, strong {
 }
 .navbar[class*="-unpinned"] {
   transform: translate(0, -150%);
+  border-style: dotted;
 }
 .navbar[class*="-pinned"] {
   transform: translate(0, 0);
 }
 .navbar[class*="headroom--not-top"] {
-  background: #ffffff;
+  background: rgb(234,225,206);
   border-bottom: 1px solid #f0f0f0;
   padding-top: 0;
   padding-bottom: 0;
+  border-style: solid;
 }
 
 .navbar-brand {
@@ -479,7 +482,12 @@ b, strong {
   .color-mode {
     display: none;
   }
-
+/* #about {
+    background-image: linear-gradient(to bottom right, #A9F99E, #46ADD5);
+}
+#contact {
+  background-image: linear-gradient(to bottom right, #8778C7, #ABF8E7);
+} */
   .about-image {
     margin-top: 4em;
   }
@@ -507,7 +515,7 @@ b, strong {
   }
 
   .navbar-collapse {
-    background: #ffffff;
+    background: rgb(234,225,206);
     text-align: center;
     padding-bottom: 20px;
   }

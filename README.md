@@ -1,6 +1,9 @@
 # React-Portfolio
 
 ## Description
+screenshot: 
+![portfolio screenshot](https://user-images.githubusercontent.com/105468134/195737440-95d655fb-0383-4fc9-9680-53f840b93138.png)
+
 
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications

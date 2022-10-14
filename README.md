@@ -2,7 +2,7 @@
 
 ## Description
 screenshot: 
-![portfolio screenshot](https://user-images.githubusercontent.com/105468134/195737553-babf722e-6f27-4e50-a78b-ce8c38889f97.png | width=100)
+![portfolio screenshot](https://user-images.githubusercontent.com/105468134/195737553-babf722e-6f27-4e50-a78b-ce8c38889f97.png)
 
 
 

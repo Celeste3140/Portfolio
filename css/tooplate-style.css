@@ -113,6 +113,14 @@ strong {
   justify-content: center
 }
 
+.text {
+  display: flex;
+  background-color: #8a9a58;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
 .middle {
   transition: .5s ease;
   opacity: 0;

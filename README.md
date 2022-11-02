@@ -3,7 +3,7 @@
 ## Description
 Screenshot: ![portfolio screenshot](https://user-images.githubusercontent.com/105468134/195739661-93b0af9e-d8e2-436f-a529-527b71769e05.png)
 
-Deployed link: 
+Deployed link: https://celeste3140.github.io/Portfolio/
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
